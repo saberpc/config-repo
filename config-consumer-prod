@@ -1,1 +1,6 @@
 
+info:
+  profile: prod
+  
+name: pancun
+words: 'pancun prod'
